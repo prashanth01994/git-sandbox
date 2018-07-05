@@ -2,3 +2,5 @@ hello
 
 
 this change is for next commit.
+
+To persist the changes without putting through stagging area.
