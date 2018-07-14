@@ -1,1 +1,1 @@
-fthis file  is generated to rename it using command ' git mv oldname new name '
+this file  is generated to rename it using command ' git mv oldname new name '
