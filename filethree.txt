@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 comitting changes from git-project directory
 hello
+=======
+comitting changes from git-project directory.
+there.
+>>>>>>> refs/remotes/origin/master
