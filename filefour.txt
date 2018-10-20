@@ -1,1 +1,2 @@
 dding changes for ammending the current commit.
+Making changes on the newfeature branch.
