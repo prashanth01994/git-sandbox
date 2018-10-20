@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 adding changes for ammending the current commit.
 fixed a buf and comitted the changes on bug fix branch.
+Making changes on the newfeature branch.
+>>>>>>> newfeature_branch
