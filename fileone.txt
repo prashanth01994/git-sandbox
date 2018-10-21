@@ -4,3 +4,5 @@ hello
 To persist the changes without putting through stagging area.
 
 some more changes to the file for next commit.
+
+modifiyig for stack.
